@@ -1,2 +1,11 @@
 python codes
 print("Hello World")
+print("Hello World")
+
+a = 5
+b = 2
+(a+b)
+
+first_name = "Kavya"
+last_name = "Selvaraj"
+print(first_name + last_name)
