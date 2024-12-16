@@ -1,0 +1,11 @@
+ #Nested if else 
+
+age = int(input("Enter your age: "))  # Input age as an integer
+if age>18:
+    if age>=65:
+        print("Take care")
+    else:
+        print("Yes,You are eligible")
+        print("Drive slow")
+else:
+    print("Wait,till you turn 18")
