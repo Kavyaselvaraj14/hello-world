@@ -1,0 +1,12 @@
+def volume_sphere(r):
+    """ 
+    Calculate the volume of a sphere.
+
+    Input:
+    r (int or float): Radius of the sphere.
+
+    Output:
+    float: Volume of the sphere rounded to two decimals.
+    """
+    vol = ((4 * (22/7) * (r**3)) / 3)
+    return round(vol, 2)
