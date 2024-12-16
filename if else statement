@@ -1,0 +1,8 @@
+age = int(input("Enter your age: "))  # Input age as an integer
+
+# Use IF-ELSE to check age
+if age > 18:
+    print("You can drive")
+    print("Drive slow")
+else:
+    print("Wait till you turn 18")
