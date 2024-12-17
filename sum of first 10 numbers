@@ -1,0 +1,10 @@
+#print sum of all numbers from 1 to 10
+#initialize
+i=1
+add=0
+#loop condition
+while i<=10:
+    #print(i,end="") 
+    add+=i
+    print(add)
+    i+=1
