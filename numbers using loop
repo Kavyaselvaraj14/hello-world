@@ -1,0 +1,19 @@
+i=1
+#condition
+while i<=10:
+   #print value
+    print(i)
+    #update
+    i+=1
+
+
+
+#print all even numbers upto 10
+i=0
+#condition
+while i<=10:
+    #check for even
+    if i%2==0:
+        print(i,end="")
+    #update
+    i+=1
