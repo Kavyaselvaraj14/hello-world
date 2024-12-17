@@ -1,0 +1,9 @@
+#while loop
+#initialize a value
+i=1
+#loop condition
+while i<=6:
+    #inside body
+    print("You are the best!!")
+#updatev
+    i+=1
