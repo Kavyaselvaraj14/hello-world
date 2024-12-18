@@ -1,0 +1,7 @@
+#Print sum of even numbers from 1 to 10 
+i=0
+num=2
+while num<=10:
+    i+=num
+    num+=2
+print("The sum of all even num from 1 to 10",i)
